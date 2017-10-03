@@ -1,25 +1,13 @@
 ---
 layout: single
-title: First Game Ever
+title: First Game Ever Gloops
 header:
-  image: /assets/images/gloopsold/gloops_title_header_990_180.png
+  image: /assets/images/gloopsold/gloops_titlechar_header_990_180.png
   teaser: /assets/images/gloopsold/IMG_0013.png
-footer:
-  image: /assets/images/gloopsold/gloops_title_header_990_180.png
 ---
 
 
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
-There is no garbage here
+* <img src="../assets/images/gloopsold/IMG_0013.png" width="256">
+* <img src="../assets/images/gloopsold/IMG_0013.png" width="512">
+* <img src="../assets/images/gloopsold/IMG_0013.png" width="1024">
+* <img src="../assets/images/gloopsold/IMG_0013.png" width="300">
