@@ -110,6 +110,13 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
+# What is this shit
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  
+  
 # Reading Files
 include:
   - .htaccess
@@ -247,3 +254,10 @@ defaults:
       comments: false
       share: true
       related: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+        layout: single
+        author_profile: false
+        share: true
