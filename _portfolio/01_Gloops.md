@@ -1,12 +1,11 @@
 ---
 layout: single
-title: Gloops
+title: "Gloops"
 excerpt: "Little pooping monster poops on other little monsters."
 header:
   image: /assets/images/gloopsold/titlechar_header_990_180.png
   teaser: /assets/images/gloopsold/title_screen.png
 ---
-
 
 First fully playable game that I created.
 Originally conceived from consequence of learning how to use GameMaker 7, it grew and changed as I explored game design and computer science.

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Adventures of Coconut
+title: "Adventures of Coconut"
 excerpt: "Adventure through the jungle as a banana-weilding poop-flinging primate!"
 header:
   image: /assets/images/adventures_of_coconut/map_header_990_180.png
