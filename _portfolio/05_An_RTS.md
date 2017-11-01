@@ -34,7 +34,7 @@ gallery:
 What happens when you try to create one of the most complicated types of games with no programming experience?  
 You get something like this:
 
-![alt text](../../assets/images/rts_/screenshot_002.png "Super alpha screen shot")
+![There is supposed to be a picture here.](../../assets/images/rts_/screenshot_002.png "Super alpha screen shot")
 
 It might look the same as the newer version but that is because the art assets remained the same.  
 The older version uses naive pathfinding which only checks in infront of the unit to maneuver around obstacles.

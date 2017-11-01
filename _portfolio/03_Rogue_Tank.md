@@ -28,7 +28,7 @@ It was later turned into a "finish the path and play." Created to support
 touch screen and make gameplay easier, the necessity of maneuvering 
 the tank was removed which permitted an increased focus on spraying zombies with bullets.
 
-![alt text](../../assets/images/rogue_tank/title_screen.png "Title screen")
+![There is supposed to be a picture here.](../../assets/images/rogue_tank/title_screen.png "Title screen")
 
 
 {% include gallery %}

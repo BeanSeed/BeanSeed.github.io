@@ -16,7 +16,7 @@ Eventually Gloops was redesigned with great care for the touch-screen mobile pla
 Currently, Gloops has been redesigned as an arcade style game, best played with a gamepad.
 You can play any of the versions I have available below.
 
-![alt text](../../assets/images/gloopsold/screenshot_001.png "Mobile version screenshot")
+![There is supposed to be a picture here.](../../assets/images/gloopsold/screenshot_001.png "Mobile version screenshot")
 
 
 ### Windows versions:
