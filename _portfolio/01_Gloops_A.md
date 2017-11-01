@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Gloops"
-excerpt: "Little pooping monster poops on other little monsters."
+excerpt: "WORK!"
 header:
   image:  /assets/images/gloopsold/titlechar_header_990_180.png
   teaser: /assets/images/gloopsold/title_screen.png
