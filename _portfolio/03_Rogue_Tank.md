@@ -1,39 +1,34 @@
 ---
-title: First Game Ever Gloops
+layout: single
+title: "Rogue Tank"
+excerpt: "Tanks, zombies, blood, flamethrowers, lasers, and did I mention tanks?"
 header:
-  image: /assets/images/gloopsold/IMG_0013.png
-  teaser: /assets/images/gloopsold/IMG_0013.png
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  image: /assets/images/rogue_tank/shop_weapons.png
+  teaser: /assets/images/rogue_tank/title_screen.png
 gallery:
-  - url: /assets/images/gloopsold/IMG_0013.png
-    image_path: assets/images/gloopsold/IMG_0013.png
-    alt: "placeholder image 1"
-  - url: /assets/images/gloopsold/IMG_0013.png
-    image_path: assets/images/gloopsold/IMG_0013.png
-    alt: "placeholder image 2"
-  - url: /assets/images/gloopsold/IMG_0013.png
-    image_path: assets/images/gloopsold/IMG_0013.png
-    alt: "placeholder image 3"
+  - url: /assets/images/rogue_tank/screenshot_000.png
+    image_path: assets/images/rogue_tank/screenshot_000.png
+  - url: /assets/images/rogue_tank/screenshot_004.png
+    image_path: assets/images/rogue_tank/screenshot_004.png
+  - url: /assets/images/rogue_tank/screenshot_002.png
+    image_path: assets/images/rogue_tank/screenshot_002.png
+  - url: /assets/images/rogue_tank/screenshot_005.png
+    image_path: assets/images/rogue_tank/screenshot_005.png
+  - url: /assets/images/rogue_tank/screenshot_003.png
+    image_path: assets/images/rogue_tank/screenshot_003.png
+  - url: /assets/images/rogue_tank/screenshot_006.png
+    image_path: assets/images/rogue_tank/screenshot_006.png
 ---
 
+Who doesn't like blowing things away with a massive tank?
+And when there is an endless horde of zombies, the fun never stops.
 
-- [] they lied to me.
-- [x] this? nope, wrong version of markdown? what the fuck is going on
+Originally Rogue Tank was a top-down free movement point-and-shoot game.
+It was later turned into a "finish the path and play." Created to support
+touch screen and make gameplay easier, the necessity of maneuvering 
+the tank was removed which permitted an increased focus on spraying zombies with bullets.
+
+![alt text](../../assets/images/rogue_tank/title_screen.png "Title screen")
 
 
-```ruby
-def foobar
-  puts "Hello world!"
-end
-```
-
-* <img src="../assets/images/gloopsold/IMG_0013.png" width="256">
-* <img src="../assets/images/gloopsold/IMG_0013.png" width="512">
-* <img src="../assets/images/gloopsold/IMG_0013.png" width="1024">
-* <img src="../assets/images/gloopsold/IMG_0013.png" width="300">
+{% include gallery %}

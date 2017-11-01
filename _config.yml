@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint
 
 # Site Settings
 locale                   : "en"
-title                    : "I will get it done EVENTUALLY!"
+title                    : "Games and Codes"
 title_separator          : "-"
 name                     : "Vlad K"
 description              : "showcase personal projects"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Vlad K."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Working on it!!!"
+  bio              : "Part logic, part creativity.   I want to make games, it is fun and it brings me joy knowing someone is enjoying my work."
   location         : 
   email            : "vovakster@gmail.com"
   uri              : #personal website lol, like this is what im making right now

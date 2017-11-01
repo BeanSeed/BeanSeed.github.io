@@ -1,10 +1,10 @@
 ---
 layout: single
 title: Gloops
-excerpt: "gloop. gloop. gloop."
+excerpt: "Little pooping monster poops on other little monsters."
 header:
-  image: /assets/images/gloopsold/gloops_titlechar_header_990_180.png
-  teaser: /assets/images/gloopsold/IMG_0013.png
+  image: /assets/images/gloopsold/titlechar_header_990_180.png
+  teaser: /assets/images/gloopsold/title_screen.png
 ---
 
 
@@ -15,10 +15,16 @@ In 2010, Gloops was planned to be submitted to [YoyoGames'](https://www.yoyogame
 Eventually Gloops was redesigned with great care for the touch-screen mobile platform. It was finished and published on the Apple iStore in 2013 until 2015. 
 
 Currently, Gloops has been redesigned as an arcade style game, best played with a gamepad.
-You can play any of the verisons I have available below.
+You can play any of the versions I have available below.
+
+![alt text](../../assets/images/gloopsold/screenshot_001.png "Mobile version screenshot")
 
 
-Playable versions:
-  * [Post 05 Competition](https://www.dropbox.com/s/f4tqfakxlfk53vs/Gloops%20OldVersion.exe?dl=0)
-  * [Arcade Style web-demo](../../assets/games/gloops_game)
-  * [Arcade Style Windows]()
+### Windows versions:
+  * [Old Keyboard Controls ](https://www.dropbox.com/s/f4tqfakxlfk53vs/Gloops%20OldVersion.exe?dl=1)
+  * [Touch Screen Controls](https://www.dropbox.com/s/0odgm9quc32s87o/gloops_windows_touch_controls.exe?dl=1)
+  * [Keyboard Controls](https://www.dropbox.com/s/sctjm2he9f3pinv/gloops_windows_keyboard_controls.exe?dl=1)
+  * [Arcade Style demo](https://www.dropbox.com/s/odfkqae4dln0rjo/gloops_arcade_windows_demo.exe?dl=1)
+  
+### Browser version:
+  * [Arcade Style demo](../../assets/games/gloops_game)
