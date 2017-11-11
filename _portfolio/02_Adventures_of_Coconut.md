@@ -28,8 +28,8 @@ to think about their available toolset.
 
 ![There is supposed to be a picture here.](../../assets/images/adventures_of_coconut/screenshot_002.png "Have to have some scary bosses to defeat!")
 
-Unfortunately this game was never completed due to my lack of knowledge with programming and the code base
-was purely DND which became a huge cumbersome mess to manage.
+Unfortunately this game project was never completed as I had started college at the time.
+Nevertheless, there is a playable alpha-version free to download below.
 
 ![There is supposed to be a picture here.](../../assets/images/adventures_of_coconut/screenshot_dnd_001.png "This is why I learned to code.")
 

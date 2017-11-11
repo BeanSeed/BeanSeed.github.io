@@ -5,6 +5,14 @@ excerpt: "Little pooping monster poops on other little monsters."
 header:
   image: /assets/images/gloopsold/titlechar_header_990_180.PNG
   teaser: /assets/images/gloopsold/title_screen.PNG
+
+gallery:
+  - url: /assets/images/gloopsold/screenshot_001_newer.png
+    image_path: /assets/images/gloopsold/screenshot_001_newer.png
+  - url: /assets/images/gloopsold/screenshot_000_newer.png
+    image_path: /assets/images/gloopsold/screenshot_000_newer.png
+  - url: /assets/images/gloopsold/screenshot_002_newer.png
+    image_path: /assets/images/gloopsold/screenshot_002_newer.png
 ---
 
 First fully playable game that I created.
@@ -17,10 +25,13 @@ progression, and story. However, due to personal circumstances, the game was nev
 Eventually Gloops was redesigned with great care for the touch-screen mobile platform. 
 It was finished and published on the Apple iStore in 2013 until 2015. 
 
+![There is supposed to be a picture here.](../../assets/images/gloopsold/screenshot_001.PNG "Mobile version screenshot")
+
 Currently, Gloops has been redesigned as an arcade style game, best played with a gamepad.
 You can play any of the versions I have available below.
 
-![There is supposed to be a picture here.](../../assets/images/gloopsold/screenshot_001.PNG "Mobile version screenshot")
+
+{% include gallery %}
 
 
 ### Windows versions:
