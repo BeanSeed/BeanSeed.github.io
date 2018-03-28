@@ -18,7 +18,8 @@ to buy it or not. I just did.
 No regrets.
 
 
-As I played the game, and loosing colony after colony to either lack of oxygen or the horrible slime-lung diseases, I really enjoyed the automation system they added.
+As I played the game, and got further and further into the research tree, my duplicants discovered the automation system.
+The automation system allows your duplicants to automate their base using logical gates and inputs, this helps your base with efficiency and resource management.
 With my Computer Science background, I wanted to see how complicated of automation systems a player can design. 
 
 So I set out making this:
